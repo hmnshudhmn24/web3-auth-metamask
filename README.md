@@ -38,6 +38,3 @@ npm start
 - MetaMask Wallet
 - React.js
 - Express.js
-
-## License
-MIT
